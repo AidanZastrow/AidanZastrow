@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AidanZastrow
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning Javascript and ReactNative
 - 🌱 I’m currently learning python, mysql, RPi embedded systems
 - 💞️ I’m looking to collaborate on maybe some UI, and GUI projects
 - 📫 How to reach me (AidanRZastrow@gmail.com)
